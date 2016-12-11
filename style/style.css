@@ -1,0 +1,31 @@
+div.buttons {
+	margin-top: 5%;
+}
+
+div.container{
+
+}
+
+div.quote-container {
+	margin: 10%;
+}
+
+div.new-quote {
+	background-color: black;
+}
+
+i.twitter-logo {
+
+}
+
+div.title {
+	font-family: 'Fjalla One', sans-serif;
+	margin-top: 5%;
+}
+
+p.quote {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 26px;
+}
+
+
